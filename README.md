@@ -1,6 +1,6 @@
 # Weather App 🌤️
 A simple weather app that displays the weather based on your location. In addition to the hourly and daily forecast. 
-Using  [open Weather API](https://openweathermap.org/api/one-call-3)
+Using  [OpenWeather API](https://openweathermap.org/api/one-call-3)
 
 # Implementation Objectives
 - Implement MVC Architecture.
